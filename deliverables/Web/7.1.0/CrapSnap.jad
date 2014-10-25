@@ -1,0 +1,110 @@
+MIDlet-Name: CrapSnap
+MIDlet-Version: 2.0.0
+MIDlet-Vendor: Mathieu Monnier
+MIDlet-Jar-URL: CrapSnap.jar
+MIDlet-Jar-Size: 4001421
+MIDlet-Description: SnapChat Client for BBOS BlackBerry Devices
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: CrapSnap,img/Snapchat_logo_64.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: CrapSnap.cod
+RIM-COD-Size: 62232
+RIM-COD-Creation-Time: 1414230470
+RIM-COD-Module-Name: CrapSnap
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_crypto,net_rim_json_org,net_rim_bbapi_messagelist,net_rim_networkapi,net_rim_bbapi_phone,net_rim_ui_api
+RIM-COD-SHA1: 08 11 ac cb a5 7c 28 33 c8 0b 0c 8f ac 96 28 8d bc 73 44 e9
+RIM-COD-URL-1: CrapSnap-1.cod
+RIM-COD-Size-1: 61900
+RIM-COD-SHA1-1: 8f ab be 71 70 18 19 b6 c1 04 f4 01 37 a2 ce 82 b5 f7 a3 05
+RIM-COD-URL-2: CrapSnap-2.cod
+RIM-COD-Size-2: 61852
+RIM-COD-SHA1-2: 38 81 52 83 24 88 26 1c 1d 5d b7 69 ea 57 35 59 3b 27 c8 76
+RIM-COD-URL-3: CrapSnap-3.cod
+RIM-COD-Size-3: 61852
+RIM-COD-SHA1-3: 46 be 37 62 23 fd fe 25 d5 88 dd 16 de b3 41 8d 30 0e 2f 19
+RIM-COD-URL-4: CrapSnap-4.cod
+RIM-COD-Size-4: 61852
+RIM-COD-SHA1-4: 72 2e 9a 8b 22 37 f9 59 a1 58 04 d5 11 50 8d 80 79 76 cb c7
+RIM-COD-URL-5: CrapSnap-5.cod
+RIM-COD-Size-5: 61852
+RIM-COD-SHA1-5: e4 e3 fe e0 02 7c 19 55 ce e0 71 ac cd f6 1c 86 2f bf 50 69
+RIM-COD-URL-6: CrapSnap-6.cod
+RIM-COD-Size-6: 61852
+RIM-COD-SHA1-6: 42 15 35 c9 dc ce 8b 4c f9 82 8c 38 e4 71 7e 6f 86 5c 79 4f
+RIM-COD-URL-7: CrapSnap-7.cod
+RIM-COD-Size-7: 61852
+RIM-COD-SHA1-7: 29 67 0b 4e 2d 6f b1 44 26 3b 4c 93 af 4c 00 0f 4e 3e 96 04
+RIM-COD-URL-8: CrapSnap-8.cod
+RIM-COD-Size-8: 61852
+RIM-COD-SHA1-8: 08 f4 2f 67 a0 0e fe 04 7c d3 2f b8 a2 22 9d c8 b4 ee 30 9d
+RIM-COD-URL-9: CrapSnap-9.cod
+RIM-COD-Size-9: 61852
+RIM-COD-SHA1-9: 4e 88 7a ff 34 45 ac f9 cb 2a 22 95 2a f1 bb a4 6c 2b 8a a9
+RIM-COD-URL-10: CrapSnap-10.cod
+RIM-COD-Size-10: 61852
+RIM-COD-SHA1-10: 9e 3c b3 25 85 28 a3 98 38 6f 8d c3 21 d5 95 fa 12 ce 9e 0e
+RIM-COD-URL-11: CrapSnap-11.cod
+RIM-COD-Size-11: 61852
+RIM-COD-SHA1-11: cd 6f 3c d6 86 fb 44 db 75 df 63 f8 23 2f a1 93 e8 d3 33 40
+RIM-COD-URL-12: CrapSnap-12.cod
+RIM-COD-Size-12: 61728
+RIM-COD-SHA1-12: 23 ce 89 25 7d 0c 45 cc 17 a4 77 61 41 57 0f e3 b7 e7 29 8f
+RIM-COD-URL-13: CrapSnap-13.cod
+RIM-COD-Size-13: 61852
+RIM-COD-SHA1-13: 5b 44 04 b0 52 2e ac cb 44 f3 25 c4 08 8a 65 ba 53 37 ea 33
+RIM-COD-URL-14: CrapSnap-14.cod
+RIM-COD-Size-14: 61852
+RIM-COD-SHA1-14: 8e 4a 4d 0e 0d 56 7a 14 c3 e1 e0 80 48 13 6e 23 0e be ce 90
+RIM-COD-URL-15: CrapSnap-15.cod
+RIM-COD-Size-15: 61852
+RIM-COD-SHA1-15: 4e ea 35 9d 39 9d 40 18 d5 65 2d 4d fb 3c 9a f7 ff 36 a7 4e
+RIM-COD-URL-16: CrapSnap-16.cod
+RIM-COD-Size-16: 61852
+RIM-COD-SHA1-16: 01 25 f6 3d 36 8b 62 37 b2 c1 57 fd 69 6e 32 b9 98 c3 f3 50
+RIM-COD-URL-17: CrapSnap-17.cod
+RIM-COD-Size-17: 61856
+RIM-COD-SHA1-17: 21 08 9f 5a 2f 26 73 35 02 4b dd d6 1f 4b 84 2e e5 be 50 6f
+RIM-COD-URL-18: CrapSnap-18.cod
+RIM-COD-Size-18: 61856
+RIM-COD-SHA1-18: 5d b5 7c 5b 72 b6 32 2e be 74 83 1a 3e b8 dd 66 37 79 45 4c
+RIM-COD-URL-19: CrapSnap-19.cod
+RIM-COD-Size-19: 61856
+RIM-COD-SHA1-19: 01 a5 9e e3 c1 58 4d f0 b1 c7 65 ce ba fe ed 5f 84 ef fb 6a
+RIM-COD-URL-20: CrapSnap-20.cod
+RIM-COD-Size-20: 61868
+RIM-COD-SHA1-20: 9d 8f a4 aa 6f 27 30 ab 13 f1 28 9d 0a a1 6f da f1 a6 a3 07
+RIM-COD-URL-21: CrapSnap-21.cod
+RIM-COD-Size-21: 59556
+RIM-COD-SHA1-21: 0d a8 67 72 9e f5 b7 c0 08 b3 b3 6b b6 fd 6a 45 b0 a3 81 21
+RIM-COD-URL-22: CrapSnap-22.cod
+RIM-COD-Size-22: 67040
+RIM-COD-SHA1-22: af ec 98 1c d2 1c 4e d1 a8 40 49 5b b4 d8 b5 10 cb ba e9 e5
+RIM-COD-URL-23: CrapSnap-23.cod
+RIM-COD-Size-23: 61852
+RIM-COD-SHA1-23: 5a e1 64 44 5e 2b 37 19 97 22 56 2e 78 be 1f c5 ea f5 52 dc
+RIM-COD-URL-24: CrapSnap-24.cod
+RIM-COD-Size-24: 61852
+RIM-COD-SHA1-24: a9 e5 ee 67 d7 f2 46 83 7e ef 47 39 cd 44 7a a8 04 dc 23 16
+RIM-COD-URL-25: CrapSnap-25.cod
+RIM-COD-Size-25: 61852
+RIM-COD-SHA1-25: 23 10 1b 6f e5 d2 19 a8 c3 50 94 10 af 2a a9 00 31 c5 52 dd
+RIM-COD-URL-26: CrapSnap-26.cod
+RIM-COD-Size-26: 56828
+RIM-COD-SHA1-26: 9f 2a 54 60 4c 65 a1 1d b7 28 40 72 d2 fe a1 e2 a0 14 85 f8
+RIM-COD-URL-27: CrapSnap-27.cod
+RIM-COD-Size-27: 61936
+RIM-COD-SHA1-27: 3f 10 0e 53 8f ec 40 19 25 a0 28 ac 7c 6d 1a 5b 54 33 4a 77
+RIM-COD-URL-28: CrapSnap-28.cod
+RIM-COD-Size-28: 41696
+RIM-COD-SHA1-28: e9 64 1f cb dc 2a 38 d6 eb ff 6f 81 57 48 9e 92 b0 42 d9 54
+RIM-COD-URL-29: CrapSnap-29.cod
+RIM-COD-Size-29: 61900
+RIM-COD-SHA1-29: d9 8a 43 fd 26 b1 13 6d f9 54 7a c7 04 b8 0a 72 19 e8 88 db
+RIM-COD-URL-30: CrapSnap-30.cod
+RIM-COD-Size-30: 61852
+RIM-COD-SHA1-30: 53 95 0d 01 1c 56 4d 25 ea 5a 34 58 a3 63 2d 29 36 f5 3a 37
+RIM-COD-URL-31: CrapSnap-31.cod
+RIM-COD-Size-31: 61852
+RIM-COD-SHA1-31: d1 b8 1f 5c 50 d0 2a 54 99 bd 4f 8d e1 00 08 b3 8c eb 88 a8
