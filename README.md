@@ -2,8 +2,8 @@
 CrapSnap
 ========================================================================
 
-    Snapchat client for Blackberry OS devices.
-==================================
+          Snapchat client for Blackberry OS devices.
+
 CrapSnap by Mathieu Monnier - 2014
 
 /!\ By using CrapSnap, your account may be locked /!\
@@ -18,9 +18,7 @@ with the TOS of snapchat (wich specify third parties clients aren't allowed to c
 
 Feel free to download or improve this piece of software !
 
-=============================================================================
-    Licensing : This sowtware is under the Berkeley Software Distribution License
-=============================================================================
+           Licensing : This sowtware is under the Berkeley Software Distribution License
 
 Copyright (c) 1998, Regents of the University of California
 All rights reserved.
