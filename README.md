@@ -1,7 +1,9 @@
+========
+   CrapSnap
+========
 
-===========================================
-A Snapchat lient for Blackberry OS devices.
-===========================================
+Snapchat client for Blackberry OS devices.
+==================================
 CrapSnap by Mathieu Monnier - 2014
 
 /!\ By using CrapSnap, your account may be locked /!\
